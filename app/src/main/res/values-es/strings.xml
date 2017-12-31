@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Feed RSS</string>
+
+    <string name="toastSelect">Seleccionado: %s</string>
+    <string name="messageConnection">La conexión a internet no está disponible.</string>
+    <string name="errorVolley">Error Volley: %s</string>
+
+    <string name="forbes">Forbes</string>
+    <string name="descForbes">Visita Forbes</string>
+    <string name="urlForbes">https://www.forbes.com/most-popular/feed/</string>
+
+    <string name="description_text">%s…</string>
+</resources>
